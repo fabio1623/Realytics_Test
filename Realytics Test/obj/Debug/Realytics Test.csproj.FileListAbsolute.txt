@@ -1,0 +1,10 @@
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\bin\Debug\Realytics Test.exe.config
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\bin\Debug\Realytics Test.exe
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\bin\Debug\Realytics Test.pdb
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\bin\Debug\Newtonsoft.Json.dll
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\bin\Debug\Newtonsoft.Json.xml
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\obj\Debug\Realytics_Test.Form1.resources
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\obj\Debug\Realytics_Test.Properties.Resources.resources
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\obj\Debug\Realytics Test.csproj.GenerateResource.Cache
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\obj\Debug\Realytics Test.exe
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Realytics Test\Realytics Test\obj\Debug\Realytics Test.pdb

@@ -1,0 +1,24 @@
+{
+    "number": 8,
+    "left": {
+        "number": 6,
+        "left": {
+            "number": 3,
+            "left": {
+                "number": 1,
+                "right": {
+                    "number": 2
+                }
+            },
+            "right": {
+                "number": 4
+            }
+        },
+        "right": {
+            "number": 7
+        }
+    },
+    "right": {
+        "number": 9
+    }
+}
